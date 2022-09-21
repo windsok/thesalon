@@ -1,10 +1,10 @@
-# The Salon
+# The Salon ✂️
 ![HAIRPEPE](assets/user/HAIRPEPE.png)
 
-## What is The Salon?
+### What is The Salon?
 [TODO] The Salon is the oldest token-gated community... (add history)
 
-## How to join The Salon?
+### How to join The Salon?
 
 [TODO] Add instructions on how to validate with @XCPKickBot ...
 
