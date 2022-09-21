@@ -1,4 +1,4 @@
-# The Salon ✂️
+# The Salon
 
 ![HAIRPEPE](https://thesalon.hair/HAIRPEPE.png "HAIRPEPE")
 
