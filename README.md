@@ -22,6 +22,12 @@ If you don't have it already, you'll need to install [Telegram Messenger](https:
 
 #### Message Signing with Rare Pepe Wallet
 
+![rpw1](assets/user/rpw1.png)
+
+![rpw2](assets/user/rpw2.png)
+
+![rpw3](assets/user/rpw3.png)
+
 
 
 #### Message Signing with FreeWallet
