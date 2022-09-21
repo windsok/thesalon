@@ -7,5 +7,3 @@
 The Salon is the oldest token-gated community...
 
 ### How to enter The Salon?
-
-
