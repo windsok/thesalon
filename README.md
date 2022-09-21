@@ -8,4 +8,4 @@
 
 [TODO] Add instructions on how to validate with @XCPKickBot ...
 
-![GitHub Logo](assets/user/github.png) [`edit me on github`](https://github.com/windsok/thesalon/edit/master/README.md)
+![GitHub Logo](assets/user/github.png)  [`edit me on github`](https://github.com/windsok/thesalon)
