@@ -1,11 +1,11 @@
-
-![markdown logo](assets/user/HAIRPEPE.png)
-
 # The Salon
+![HAIRPEPE](assets/user/HAIRPEPE.png)
 
-### What is The Salon?
+## What is The Salon?
+[TODO] The Salon is the oldest token-gated community... (add history)
 
-### How to join The Salon?
+## How to join The Salon?
 
+[TODO] Add instructions on how to validate with @XCPKickBot ...
 
-_`Last Updated: 7/7/2022`_ [`edit me on github`](https://github.com/dandalpiaz/markdown-pages/edit/master/README.md)
+![GitHub Logo](assets/user/github.png) [`edit me on github`](https://github.com/windsok/thesalon/edit/master/README.md)
