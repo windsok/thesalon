@@ -18,6 +18,10 @@ If you don't have it already, you'll need to install [Telegram Messenger](https:
 * That's it! If you sucessfully signed and you hold a `HAIRPEPE` you're good to go. If something went wrong, then the bot might get angry..
 * DM `@ShawnLeary` to get the invite link to The Salon
 
+---
+
+### Message Signing
+
 #### Message Signing with Rare Pepe Wallet
 Rare Pepe Wallet has a Sign Message feature which can be accessed from the ⚙️ menu in the upper right
 
@@ -27,11 +31,25 @@ Paste the message that `@XCPKickbot` gives you and click `Sign`
 
 ![rpw2](assets/user/rpw2.png)
 
-Copy the signagure, and paste this back into your DM chat with `@XCPKickbot`
+Copy the signature, and paste this back into your DM chat with `@XCPKickbot`
 
 ![rpw3](assets/user/rpw3.png)
 
+---
+
 #### Message Signing with FreeWallet
+
+FreeWallet has a Sign Message feature which can be accessed from the actions menu
+
+![fw1](assets/user/fw1.png)
+
+Paste the message that `@XCPKickbot` gitves you and click `Sign Message`
+
+![fw2](assets/user/fw2.png)
+
+Copy the signature, and paste this back into your DM chat with `@XCPKickbot`
+
+---
 
 
 ![GitHub Logo](assets/user/github.png)  [`edit me on github`](https://github.com/windsok/thesalon)
