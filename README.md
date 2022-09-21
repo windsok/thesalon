@@ -1,7 +1,7 @@
 
-![markdown logo](assets/user/markdown.svg)
+![markdown logo](assets/user/HAIRPEPE.png)
 
-# Markdown Pages - a simple template for Markdown-based sites on GitHub Pages
+# The Salon
 
 _`Last Updated: 7/7/2022`_ [`edit`](https://github.com/dandalpiaz/markdown-pages/edit/master/README.md)
 
