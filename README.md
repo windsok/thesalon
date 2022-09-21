@@ -3,8 +3,6 @@
 
 ## *The Finest Salon in the Metaverse!*
 
-
-
 ### How to join The Salon
 
 If you don't have it already, you'll need to install [Telegram Messenger](https://telegram.org/) and create an account
@@ -21,14 +19,17 @@ If you don't have it already, you'll need to install [Telegram Messenger](https:
 * DM `@ShawnLeary` to get the invite link to The Salon
 
 #### Message Signing with Rare Pepe Wallet
+Rare Pepe Wallet has a Sign Message feature which can be accessed from the ⚙️ menu in the upper right
 
 ![rpw1](assets/user/rpw1.png)
 
+Paste the message that `@XCPKickbot` gives you and click `Sign`
+
 ![rpw2](assets/user/rpw2.png)
 
+Copy the signagure, and paste this back into your DM chat with `@XCPKickbot`
+
 ![rpw3](assets/user/rpw3.png)
-
-
 
 #### Message Signing with FreeWallet
 
