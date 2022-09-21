@@ -1,7 +1,7 @@
-# thesalon
+# The Salon
 
-testing12345
-
-<div style="text-align: center;">
 ![HAIRPEPE](https://thesalon.hair/HAIRPEPE.png "HAIRPEPE")
-</div>
+
+### What is The Salon?
+
+### How to enter The Salon?
